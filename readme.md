@@ -1,4 +1,4 @@
-# CCC Solutions Repository
+# Canadian Computing Competition Solutions
 
 This repository contains my solutions for the Canadian Computing Competition (CCC) problems as well as a few CCCHK solutions.
 
